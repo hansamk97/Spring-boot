@@ -1,0 +1,157 @@
+프로젝트 생성 후 웰컴페이지 띄우기
+- 프로젝트명 : core3
+  패키지 : com.codingbox.core3
+  Gradle-Groovy / Java 11 / 3.1.4
+  라이브러리 : Spring web, thymeleaf
+- 기본 세팅 까지 
+-----------------------------------------------
+1. HTTP요청 파라미터
+ 1-1. HTTP요청 데이터 조회
+  - 스프링이 얼마나 깔끔하고 효율적으로 요청 데이터를
+ 전달하는 방법을 알아보자. 
+
+ 1-2. @RequestParam
+ - 스프링이 제공하는 @RequestParam을 사용하면 요청
+ 파라미터를 매우 편리하게 사용할 수 있다.
+
+2. 타임리프 특징
+ 2-1. 서버 사이드 HTML 렌더링(SSR)
+  - 타임리프는 백엔드 서버에서(jsp 처럼) HTML을 동적으로 
+  렌더링 하는 용도로 사용된다. 
+ 
+ 2-2. 넷츄럴 템플릿
+  - 타임리프는 순수 HTML을 최대한 유지하는 특징이 있다. 
+  - 타임리프로 작성한 파일은 HTML을 유지하기 때문에 
+  웹 브라우저에서 파일을 직접 열어도 내용을 확인할 수 있고,
+  서버를 통해 뷰 템플릿을 거치면 동적으로 변경된 결과를 확인할
+  수 있다. 
+  - 순수 HTML을 그대로 유지하면서 뷰 템플릿도 사용할 수 있는
+  타임리프의 특징을 네츄럴 템플릿(natural templates)라 한다.
+
+ 2-3. 스프링 통합지원
+  - 타임리프는 스프링과 자연스럽게 통합되고, 스프링의 다양한
+  기능을 편리하게 사용할 수 있게 지원한다. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+* 확인 후
+빅데이터 플랫폼 구축 실무 프로젝트 -> jsp 프로젝트
+			      -> 본인 이름, ppt, pdf 업로드
+
+
+
+
+
+------------------
+[프로젝트 중심] 자바 개발 & 빅데이터 분석 전문가 양성과정 과정
+
+국비 : 시즌 5
+기간 : 6월 30일 ~ 12월 6일
+ 9시 10분 ~ 4시, ~5시 50분
+http://hrd.kiccampus.com/
+
+java, DBMS(oracle), HTML, CSS, Javascript, jQuery, JSP, Mybatis,
+Spring Boot, JPA, QueryDSL, thymeleaf, 
+python, django, 머신러닝/딥러닝
++ 8번의 시험(2번 프로젝트, 6번 시험)
+
+- 9시 10분에 수업 시작
+- 휴강날짜 : 10월2일 총 4일
+
+[JSP프로젝트]
+ - 수고하셨습니다.
+ - 발표자료(문서), git주소 : 금일까지
+ - 조원 추천 2명 : 금일까지
+ - 각 조별 서로 지문사항 -> 적극적으로 알려주기
+
+[공지사항]
+ - 앞으로 프로젝트 spring boot 1건, django 1건(멘토님과)
+ - 앞으로 남은 시험
+ 5 Python의 이해 및 활용
+ 6 Python의 이해 및 활용 심화
+ 7 머신러닝/딥러닝
+ 8 빅데이터 분석 실무 프로젝트
+
+
+1. 포트폴리오 초안을 작성해보도록 할께요!!
+  - 예시 :   
+   https://gregarious-polish-5d0.notion.site/aba168a3761c46b59f2205c8753a7090
+   https://cord-vault-922.notion.site/2917be55573d43aa94dfc24037ecef96
+   https://pond-legend-69e.notion.site/43618687c7b14090bf93ca6046b6ed0d
+   https://weak-bow-949.notion.site/Jack-741cc228a92841ddb18f990ed91249ba
+   https://fog-cowl-888.notion.site/5e9c7cfbb7054c92ab96ec04d80c5e75
+   https://www.notion.so/Bello-637f8e6bebef4e3894678dcacf8e25b7
+   https://trite-scarf-43b.notion.site/7b857a1a19624ee6adbf664dcc958e4d
+      
+   포트폴리오 정리(노션)
+   https://www.notion.so/ab7d09fece2245d2ab17443b930aae18
+
+   포트폴리오 정리(GitHub)
+   https://github.com/codingmonster-tv/Awesome_Resume_Portfolio
+
+2. 기술면접 준비를 위한 기본 CS준비
+  -  http://naver.me/GrATZVyf
+
+3. 양질의 채용정보 정리 repo
+  - https://github.com/jojoldu/junior-recruit-scheduler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
