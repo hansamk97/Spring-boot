@@ -1,0 +1,54 @@
+[프로젝트 중심] 자바 개발 & 빅데이터 분석 전문가 양성과정 과정
+
+국비 : 시즌 5
+기간 : 6월 30일 ~ 12월 6일
+ 9시 10분 ~ 4시, ~5시 50분
+http://hrd.kiccampus.com/
+
+java, DBMS(oracle), HTML, CSS, Javascript, jQuery, JSP, Mybatis,
+Spring Boot, JPA, QueryDSL, thymeleaf, 
+python, django, 머신러닝/딥러닝
++ 8번의 시험(2번 프로젝트, 6번 시험)
+
+- 9시 10분에 수업 시작
+
+
+[공지사항]
+ - 앞으로 프로젝트 spring boot 1건, django 1건(멘토님과)
+ - 앞으로 남은 시험
+ 7 머신러닝/딥러닝
+ 8 빅데이터 분석 실무 프로젝트
+
+[시험]
+6 Python의 이해 및 활용 심화
+ - 10월 18일 수요일 오전
+ - JPA
+ - 서술형
+ 	-> JPA관련 서술형 문제 
+	-> 9시 15분 ~ 10시 15분까지
+
+  - 평가자 체크 리스트
+	-> JPA 테이블, 테이터 CRUD, 출력
+	-> 10시 15분 ~ 12시 45분까지
+
+1. 포트폴리오 초안을 작성해보도록 할께요!!
+  - 예시 :   
+   https://gregarious-polish-5d0.notion.site/aba168a3761c46b59f2205c8753a7090
+   https://cord-vault-922.notion.site/2917be55573d43aa94dfc24037ecef96
+   https://pond-legend-69e.notion.site/43618687c7b14090bf93ca6046b6ed0d
+   https://weak-bow-949.notion.site/Jack-741cc228a92841ddb18f990ed91249ba
+   https://fog-cowl-888.notion.site/5e9c7cfbb7054c92ab96ec04d80c5e75
+   https://www.notion.so/Bello-637f8e6bebef4e3894678dcacf8e25b7
+   https://trite-scarf-43b.notion.site/7b857a1a19624ee6adbf664dcc958e4d
+      
+   포트폴리오 정리(노션)
+   https://www.notion.so/ab7d09fece2245d2ab17443b930aae18
+
+   포트폴리오 정리(GitHub)
+   https://github.com/codingmonster-tv/Awesome_Resume_Portfolio
+
+2. 기술면접 준비를 위한 기본 CS준비
+  -  http://naver.me/GrATZVyf
+
+3. 양질의 채용정보 정리 repo
+  - https://github.com/jojoldu/junior-recruit-scheduler
